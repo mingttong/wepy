@@ -1333,7 +1333,7 @@ modules.exports = {
 
 ### interceptor 拦截器
 
-可以使用WePY提供的全局拦截器对原生API的请求进行拦截。
+可以使用WePY提供的全局拦截器对WePY优化的API请求进行拦截。
 
 具体方法是配置API的config、fail、success、complete回调函数。参考示例：
 
